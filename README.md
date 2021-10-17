@@ -25,6 +25,10 @@ use `yarn start` to run the application as well as api
 
 Created question 4 with few errors to solve
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/41572852/137639015-395fb578-ce2f-4a76-bd5d-69e8d4da0e07.png">
+
+## working solution will look like below
+
 <img width="641" alt="1" src="https://user-images.githubusercontent.com/41572852/137638874-328e6d5f-c5c8-428a-a8b5-26175257b81f.png">
 
 <img width="641" alt="2" src="https://user-images.githubusercontent.com/41572852/137638877-74f001bf-7a5c-43d2-8c26-17038827e42f.png">
